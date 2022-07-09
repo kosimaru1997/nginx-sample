@@ -2,4 +2,4 @@
 
 - nginxの試作用のリポジトリです。(下記内容)
 
-![nginx-sample drawio](https://user-images.githubusercontent.com/79825084/178113254-dbd98139-60e3-4a82-8eba-700aaf754eb7.png)
+![nginx-sample drawio (1)](https://user-images.githubusercontent.com/79825084/178114742-b869be1b-f4c2-4caa-940d-eccbbaeea106.png)
