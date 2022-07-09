@@ -1,0 +1,6 @@
+version: '3'
+services:
+  nginx-sample:
+    build: ./nginx
+    ports:
+      - 3080:3080
